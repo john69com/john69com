@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Cabrera Diaz Juan Miguel ✨</h1>
+<h1 align="center">Hello 👋 I'm Cabrera Diaz Juan Miguel ✨</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/" target="blank">
@@ -16,30 +16,30 @@
 </p>
 
 <br>
-<h2>Sobre mí 😃</h2>
+<h2>About Me 😃</h2>
 
 <p align="left">
   
 💻 <b>Software Developer | Scrum Master</b><br><br>
 
-Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicaciones web y móviles</b>, y la <b>gestión ágil de proyectos</b>.  
-Me destaco por combinar <b>habilidades técnicas sólidas</b> con <b>liderazgo de equipos</b>, entregando soluciones eficientes e impactantes.<br><br>
+I am a passionate professional in <b>technology, web and mobile application development</b>, and <b>agile project management</b>.  
+I stand out for combining <b>strong technical skills</b> with <b>team leadership</b>, delivering efficient and impactful solutions.<br><br>
 
-🚀 <b>Tecnologías & Habilidades</b><br>
-🌐 APIs REST, Spring Boot & Security<br>
+🚀 <b>Technologies & Skills</b><br>
+🌐 REST APIs, Spring Boot & Security<br>
 ⚛️ Angular & React<br>
 📱 Mobile Apps<br>
 🐧 Linux<br>
 🧑‍🤝‍🧑 Team Leadership<br>
 📊 CRISP-DM & Virtual Environments<br><br>
 
-🎯 <b>Mi propósito</b><br>
-Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágiles</b> y aprovechando el poder de la <b>analítica de datos y la innovación tecnológica</b>, siempre alineado a los objetivos del negocio.
+🎯 <b>My Purpose</b><br>
+To drive high-quality software projects by applying <b>agile methodologies</b> and leveraging the power of <b>data analytics and technological innovation</b>, always aligned with business objectives.
 </p>
 
 <br>
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<h2>Known Technologies 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,angular,react,androidstudio,flutter,py,mysql,sqlite,git,github,linux,docker,postman&perline=10" />
@@ -71,4 +71,3 @@ Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágile
 📫 <b>Contact Me:</b><br>
 <a href="mailto:johnmichaelcabreracabrera@gmail.com">✉️ johnmichaelcabreracabrera@gmail.com</a>
 </p>
-
