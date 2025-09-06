@@ -7,6 +7,9 @@
   <a href="https://github.com/john69com" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:johnmichaelcabreracabrera@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Juan%20Miguel,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.youtube.com/@michaelcabrera69" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@michaelcabrera69"/>
   </a>
@@ -20,9 +23,23 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
+👋 <b>Hi! I'm Cabrera Diaz Juan Miguel</b><br><br>
+
 💻 <b>Software Developer | Scrum Master</b><br><br>
-Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicaciones web y móviles</b>, y la <b>gestión ágil de proyectos</b>. Me destaco por combinar sólidas habilidades técnicas con liderazgo de equipos, entregando soluciones eficientes e impactantes.<br><br>
-🎯 Mi propósito es impulsar proyectos de software de alta calidad aplicando <b>metodologías ágiles</b> y el poder de la <b>analítica de datos e innovación tecnológica</b>, siempre alineado a los objetivos del negocio.
+
+Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicaciones web y móviles</b>, y la <b>gestión ágil de proyectos</b>.  
+Me destaco por combinar <b>habilidades técnicas sólidas</b> con <b>liderazgo de equipos</b>, entregando soluciones eficientes e impactantes.<br><br>
+
+🚀 <b>Tecnologías & Habilidades</b><br>
+🌐 APIs REST, Spring Boot & Security<br>
+⚛️ Angular & React<br>
+📱 Mobile Apps<br>
+🐧 Linux<br>
+🧑‍🤝‍🧑 Team Leadership<br>
+📊 CRISP-DM & Virtual Environments<br><br>
+
+🎯 <b>Mi propósito</b><br>
+Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágiles</b> y aprovechando el poder de la <b>analítica de datos y la innovación tecnológica</b>, siempre alineado a los objetivos del negocio.
 </p>
 
 <br>
