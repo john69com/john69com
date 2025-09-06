@@ -19,7 +19,6 @@
 </p>
 
 <br>
-
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
