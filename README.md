@@ -51,18 +51,21 @@ Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágile
 <h2>GitHub 📊</h2>
 
 <p align="center">
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-  <img title="🔥 Get streak stats for your profile" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=john69com&theme=dark&hide_border=false" /> 
-</td>
-<td width="40%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john69com&layout=compact&theme=dark&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <table>
+    <tr border="none">
+      <td width="60%" align="center">
+        <img title="🔥 Get streak stats for your profile" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=john69com&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john69com&layout=compact&theme=dark&hide_border=false&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
 </p>
-<br><br><br>
+
+<br><br>
+
+---
 
 <p align="center">
 📫 <b>Contact Me:</b><br>
@@ -70,3 +73,4 @@ Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágile
 <a href="https://github.com/john69com">GitHub</a> | 
 <a href="mailto:johnmichaelcabreracabrera@gmail.com">✉️ johnmichaelcabreracabrera@gmail.com</a>
 </p>
+
