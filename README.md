@@ -10,9 +10,6 @@
   <a href="https://www.youtube.com/@michaelcabrera69" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@michaelcabrera69"/>
   </a>
-  <a href="https://www.facebook.com/miguel.cabrera.404214" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
 </p>
 
 <br>
