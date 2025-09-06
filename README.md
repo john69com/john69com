@@ -7,9 +7,6 @@
   <a href="https://github.com/john69com" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:johnmichaelcabreracabrera@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Juan%20Miguel,%20me%20gustaría%20ponerme%20en%20contacto%20contigo.">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.youtube.com/@michaelcabrera69" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@michaelcabrera69"/>
   </a>
