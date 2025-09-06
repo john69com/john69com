@@ -23,8 +23,7 @@
 <h2>Sobre mí 😃</h2>
 
 <p align="left">
-👋 <b>Hi! I'm Cabrera Diaz Juan Miguel</b><br><br>
-
+  
 💻 <b>Software Developer | Scrum Master</b><br><br>
 
 Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicaciones web y móviles</b>, y la <b>gestión ágil de proyectos</b>.  
