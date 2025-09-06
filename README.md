@@ -62,3 +62,6 @@ Impulsar proyectos de software de alta calidad aplicando <b>metodologías ágile
 </tr>
 </table>
 </p>
+
+📫 <b>Contact Me:</b><br>
+[LinkedIn](https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/) | [GitHub](https://github.com/john69com) | ✉️ johnmichaelcabreracabrera@gmail.com
