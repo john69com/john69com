@@ -1,33 +1,45 @@
-# 👋 Hi! I'm Cabrera Diaz Juan Miguel
+<h1 align="center">Hola 👋 soy Cabrera Diaz Juan Miguel ✨</h1>
 
-## 💻 Software Developer | Scrum Master
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/john69com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:johnmichaelcabreracabrera@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-I am a professional passionate about **technology, web and mobile application development**, and **agile project management**. I stand out for combining strong technical skills with team leadership, delivering efficient and impactful solutions.
+<br>
 
----
+<h2>Sobre mí 😃</h2>
 
-### 🚀 Technologies & Skills
+<p align="left">
+💻 <b>Software Developer | Scrum Master</b><br><br>
+Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicaciones web y móviles</b>, y la <b>gestión ágil de proyectos</b>. Me destaco por combinar sólidas habilidades técnicas con liderazgo de equipos, entregando soluciones eficientes e impactantes.<br><br>
+🎯 Mi propósito es impulsar proyectos de software de alta calidad aplicando <b>metodologías ágiles</b> y el poder de la <b>analítica de datos e innovación tecnológica</b>, siempre alineado a los objetivos del negocio.
+</p>
 
-- 🌐 **APIs REST, Spring Boot & Security**  
-- ⚛️ **Angular & React**  
-- 📱 **Mobile Apps**  
-- 🐧 **Linux**  
-- 🧑‍🤝‍🧑 **Team Leadership**  
-- 📊 **CRISP-DM & Virtual Environments**
+<br>
 
----
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,androidstudio,flutter,py,mysql,sqlite,git,github,linux,docker,postman&perline=10" />
+  </a>
+</p>
 
-### 🎯 My Purpose
-To drive high-quality software projects by applying **agile methodologies** and leveraging the power of **data analytics and technological innovation**, always aligned with business goals.
+<br>
 
-## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&hide_border=true&border_radius=10&card_width=800&card_height=200)](https://git.io/streak-stats)
+<h2>GitHub 📊</h2>
 
-## Most Used Languajes
-![Most Used Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align="center">
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+  <img title="🔥 Get streak stats for your profile" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=john69com&theme=dark&hide_border=false" /> 
+</td>
+<td width="40%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john69com&layout=compact&theme=dark&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
----
-
-📫 **Contact Me:**  
-[LinkedIn](https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/) | [GitHub](#) | ✉️ johnmichaelcabreracabrera@gmail.com
 
