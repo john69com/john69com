@@ -25,4 +25,8 @@ To drive high-quality software projects by applying **agile methodologies** and 
 📫 **Contact Me:**  
 [LinkedIn](https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/) | [GitHub](#) | ✉️ johnmichaelcabreracabrera@gmail.com
 
+---
+
+### 🎯 Readme streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&card_width=500&card_height=500)](https://git.io/streak-stats)
