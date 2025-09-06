@@ -29,4 +29,6 @@ To drive high-quality software projects by applying **agile methodologies** and 
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&card_width=500&card_height=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&hide_border=true&border_radius=10&card_width=800&card_height=200)](https://git.io/streak-stats)
+
+
