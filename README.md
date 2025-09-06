@@ -20,15 +20,14 @@ I am a professional passionate about **technology, web and mobile application de
 ### 🎯 My Purpose
 To drive high-quality software projects by applying **agile methodologies** and leveraging the power of **data analytics and technological innovation**, always aligned with business goals.
 
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&hide_border=true&border_radius=10&card_width=800&card_height=200)](https://git.io/streak-stats)
+
+## Most Used Languajes
+![Most Used Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ---
 
 📫 **Contact Me:**  
 [LinkedIn](https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/) | [GitHub](#) | ✉️ johnmichaelcabreracabrera@gmail.com
-
----
-
-### 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john69com&theme=dracula&hide_border=true&border_radius=10&card_width=800&card_height=200)](https://git.io/streak-stats)
-
 
