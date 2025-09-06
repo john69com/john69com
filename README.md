@@ -1,9 +1,21 @@
 <h1 align="center">Hola 👋 soy Cabrera Diaz Juan Miguel ✨</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/john69com" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:johnmichaelcabreracabrera@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/juan-miguel-cabrera-diaz-94238030b/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/john69com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:johnmichaelcabreracabrera@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.youtube.com/@michaelcabrera69" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@michaelcabrera69"/>
+  </a>
+  <a href="https://www.facebook.com/miguel.cabrera.404214" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 <br>
@@ -41,5 +53,3 @@ Soy un profesional apasionado por la <b>tecnología, el desarrollo de aplicacion
 </tr>
 </table>
 </p>
-
-
