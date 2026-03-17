@@ -17,7 +17,7 @@
 
 <p align="left">
   
-💻 <b>Software Developer | Scrum Master</b><br><br>
+💻 <b>Software Developer | Scrum Master | BI & Data Enthusiast</b><br><br>
 
 I am a passionate professional in <b>technology, web and mobile application development</b>, and <b>agile project management</b>.  
 I stand out for combining <b>strong technical skills</b> with <b>team leadership</b>, delivering efficient and impactful solutions.<br><br>
