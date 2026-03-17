@@ -13,6 +13,7 @@
 </p>
 
 <br>
+
 <h2>About Me 😃</h2>
 
 <p align="left">
@@ -23,18 +24,19 @@ I am a technology professional passionate about <b>software development, data an
 
 I specialize in building <b>scalable web and mobile applications</b>, integrating <b>backend–frontend architectures</b>, and applying <b>data-driven decision-making</b>.<br><br>
 
-I combine <b>technical expertise</b> with <b>team leadership</b>, delivering <b>efficient, secure, and business-oriented solutions</b>.<br><br>>
+I combine <b>technical expertise</b> with <b>team leadership</b>, delivering <b>efficient, secure, and business-oriented solutions</b>.<br><br>
 
-🚀 <b>Technologies & Skills</b><br>
-🌐 REST APIs, Spring Boot & Security<br>
-⚛️ Angular & React<br>
-📱 Mobile Apps<br>
-🐧 Linux<br>
-🧑‍🤝‍🧑 Team Leadership<br>
-📊 CRISP-DM & Virtual Environments<br><br>
+🚀 <b>Professional Profile</b><br>
+💻 Full Stack Developer (Spring Boot + Angular/React)<br>
+📊 Business Intelligence & Data Analyst<br>
+🔐 Security-oriented development (Spring Security & JWT)<br>
+⚙️ ETL Processes & Data Modeling<br>
+🤖 Machine Learning (basic – predictive models)<br>
+📈 KPI & Dashboard Development (Power BI, SQL Server)<br>
+🧑‍💼 Scrum & Agile Methodologies (JIRA)<br><br>
 
 🎯 <b>My Purpose</b><br>
-To drive high-quality software projects by applying <b>agile methodologies</b> and leveraging the power of <b>data analytics and technological innovation</b>, always aligned with business objectives.
+To drive <b>high-quality software solutions</b> by combining agile methodologies, data analytics, and technological innovation, always aligned with business goals and real-world impact.
 </p>
 
 <br>
@@ -42,8 +44,18 @@ To drive high-quality software projects by applying <b>agile methodologies</b> a
 <h2>Known Technologies 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,androidstudio,flutter,py,mysql,sqlite,git,github,linux,docker,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,kotlin,androidstudio,py,mysql,sqlite,git,github,linux,docker,postman&perline=10" />
   </a>
+</p>
+
+<br>
+
+<h2>Currently Learning 📚</h2>
+
+<p align="left">
+🚀 Advanced Machine Learning<br>
+☁️ Cloud Deployment (Railway, Cloud Platforms)<br>
+🔐 Advanced Cybersecurity & Ethical Hacking
 </p>
 
 <br>
@@ -62,6 +74,29 @@ To drive high-quality software projects by applying <b>agile methodologies</b> a
     </tr>
   </table>
 </p>
+
+<br>
+
+<h2>Languages 🌎</h2>
+
+<p align="left">
+🇪🇸 Spanish: Native<br>
+🇺🇸 English: Basic completed – Intermediate in progress
+</p>
+
+<br>
+
+<h2>Contact Me 📫</h2>
+
+<p align="left">
+✉️ johnmichaelcabreracabrera@gmail.com
+</p>
+
+<br>
+
+<p align="center">
+⭐ <i>"Building technology solutions that create real business value."</i>
+</p>>
 
 <br><br>
 
