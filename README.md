@@ -19,8 +19,11 @@
   
 💻 <b>Software Developer | Scrum Master | BI & Data Enthusiast</b><br><br>
 
-I am a passionate professional in <b>technology, web and mobile application development</b>, and <b>agile project management</b>.  
-I stand out for combining <b>strong technical skills</b> with <b>team leadership</b>, delivering efficient and impactful solutions.<br><br>
+I am a technology professional passionate about <b>software development, data analysis, and agile project management</b>.<br><br>
+
+I specialize in building <b>scalable web and mobile applications</b>, integrating <b>backend–frontend architectures</b>, and applying <b>data-driven decision-making</b>.<br><br>
+
+I combine <b>technical expertise</b> with <b>team leadership</b>, delivering <b>efficient, secure, and business-oriented solutions</b>.<br><br>>
 
 🚀 <b>Technologies & Skills</b><br>
 🌐 REST APIs, Spring Boot & Security<br>
